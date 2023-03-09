@@ -1,5 +1,10 @@
+
+![docs graphly dev_data-structure_link_data html](https://user-images.githubusercontent.com/28512517/224093079-8efbe9f3-7ba5-4707-badd-9c2b223ed38b.png)
+
+**Checkout the [Graphly D3 Docs](https://docs.graphly.dev/components/vue3/) for more details and how to access the component from there**
+
 <p align="center">
-  <img src="https://graphly-d3.livereader.com/icons/graphly-d3-icon.png" width="30%">
+  <img src="https://docs.graphly.dev/icons/graphly-d3-icon.png" width="30%">
 </p>
 
 # Graphly D3 Vue
